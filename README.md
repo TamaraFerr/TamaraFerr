@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile, where you'll find my projects and see what o do everytime.
 
-# ABOUT
+## ABOUT
 
 ## Techs and Languages
 <div>
