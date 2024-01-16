@@ -1,6 +1,6 @@
 ### Hi there 👋 i'm Tamara, the owner of this lovely profile!
 
-## Welcome to my GitHub profile, where you'll find my projects and see what o do everytime.
+## welcome to my github profile, where you'll find my projects and see what I do all the time.
 
 ## ABOUT
 
